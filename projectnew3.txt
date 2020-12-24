@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Application</title>
+</head>
+<body>
+	<h1>Transaction Details</h1>
+	
+<table border="1px solid black">
+				<tr>
+					<th>Name</th>
+					<th>Account Number</th>
+					<th>Date</th>
+					<th>Description</th>
+					<th>Reference</th>
+					<th>withdrawal</th>
+					<th>Deposit</th>
+					<th>Balance Before</th>
+					<th>After transaction</th>
+				</tr>
+		<tr>
+			<td>Bob</td>
+			<td>SBIXXXXXXXXXXXX12</td>
+			<td>21-09-20</td>
+			<td>Cash Deposit</td>
+			<td>CD-001</td>
+			<td></td>
+			<td>Rs.1000</td>
+			<td>Rs.5000</td>
+			<td>Rs.6000</td>
+		</tr>
+		<tr>
+			<td>Alicce</td>
+			<td>SBIXXXXXXXXXXXX21</td>
+			<td>23-10-20</td>
+			<td>Withdrawal</td>
+			<td>AW-001</td>
+			<td>Rs.2000</td>
+			<td></td>
+			<td>Rs.4000</td>
+			<td>Rs.2000</td>
+		</tr>
+		<tr>
+		<td>Joe</td>
+			<td>SBIXXXXXXXXXXXX30</td>
+			<td>21-11-20</td>
+			<td>Cash Deposit</td>
+			<td>CD-002</td>
+			<td></td>
+			<td>Rs.2000</td>
+			<td>Rs.4000</td>
+			<td>Rs.6000</td>
+		</tr>
+
+</body>
+</html>
